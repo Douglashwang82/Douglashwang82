@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Really glad to have you here.<br> 😄
-Life is short. Let us build something great together.<br> 👯
+Really glad to have you here.😄<br>
+Life is short. Let us build something great together.👯<br>
 Feel free to reach me to talk about anything. 📫 email: douglas821209@gmail.com<br>
 
 
