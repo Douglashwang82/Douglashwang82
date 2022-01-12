@@ -2,7 +2,7 @@
 
 😄 Really glad to have you here.<br>
 👯 Life is short. Let us build something great together.<br>
-📫 Feel free to reach me to talk about anything. email:douglas821209@gmail.com<br>
+📫 Feel free to reach me to talk about anything. email: douglas821209@gmail.com<br>
 
 
 [![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglashwang82&hide=stars&show_icons=true&theme=buefy)](https://github.com/douglashwang82/github-readme-stats)
