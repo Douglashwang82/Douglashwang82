@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Really glad to have you here. Life is short. Let us build something great together. Feel free to reach me to talk about anything.
+Really glad to have you here. 
+Life is short. Let us build something great together. 
+Feel free to reach me to talk about anything.
 
 - 👯 I’m looking to collaborate on raising postivity on web area. 
 - 📫 How to reach me: email: douglas821209@gmail.com
