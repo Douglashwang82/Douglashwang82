@@ -10,3 +10,5 @@ I am a software engineer.
 - 😄 Pronouns: he/him
 
 [![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglashwang82&hide=stars&show_icons=true&theme=buefy)](https://github.com/douglashwang82/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglashwang82&layout=compact&hide=html,css&theme=buefy)](https://github.com/douglashwang82/github-readme-stats)
