@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer.
+Really glad to have you here. Life is short. Let us build something great together. Feel free to reach me to talk about anything.
 
-- 🔭 I’m currently working on...not applicable
-- 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on raising postivity on web area. 
-- 💬 Ask me about any fresh ideas.
 - 📫 How to reach me: email: douglas821209@gmail.com
 - 😄 Pronouns: he/him
 
